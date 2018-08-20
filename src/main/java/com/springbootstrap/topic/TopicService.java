@@ -40,7 +40,7 @@ public class TopicService {
 
 	public void deleteTopic(String id) {
 		Topic t = getTopic(id);
-		topics.remove(t);
+		topics.remove(t); 
 	}
 	
 	
