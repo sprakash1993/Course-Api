@@ -5,6 +5,6 @@ Built-By: sprak
 Implementation-Vendor-Id: io.springbootbase
 Build-Jdk: 1.8.0_181
 Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
- ot-starter-parent/baseproject
+ ot-starter-parent/CourseApi
 Created-By: Maven Integration for Eclipse
 
